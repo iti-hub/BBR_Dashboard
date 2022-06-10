@@ -1,0 +1,15 @@
+
+body{
+	
+	background-image: url("back.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.rounded-circle{
+	border-radiu0s: 50%;
+	box-shadow: 55px 50px 30px -15px rgba(15,14,15,1);
+}
+.block:hover{
+	 transform: scale(1.5); 
+	color: gray;
+}
